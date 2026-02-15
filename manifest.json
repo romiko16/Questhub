@@ -1,0 +1,17 @@
+{
+  "short_name": "Questify",
+  "name": "Questify SQ",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/628/628283.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00ff88",
+  "background_color": "#0f2027",
+  "scope": "/questify-sq/"
+}
